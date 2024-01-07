@@ -14,7 +14,7 @@ A simple and responsive web page template for a fictional Musical Instrument Sto
 
 ## Screenshots
 
-![Musical Instrument Store](./img/screenshot.png)
+![Musical Instrument Store](https://github.com/sudo-paoo/responsive-e-commerce-website/blob/ef1809921d4651c109000d07a324488eb8276fcd/img/screenshot.png)
 ![Musical Instrument Store](./img/screenshot2.png)
 
 **Note:** This template is a static HTML/CSS page and doesn't include backend functionality.
